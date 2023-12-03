@@ -1,0 +1,99 @@
+ 
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+
+.weather-container {
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    height: 70vh;
+    margin-top: 70px;
+      
+    
+} 
+
+
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    width: 70%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    cursor: pointer;
+}
+
+.weather-icon {
+    margin: 20px 0;
+}
+
+.temperature {
+    font-size: 36px;
+    
+}
+
+.description {
+    font-size: 18px;
+}
+.b1{
+    margin-left: 89vh;
+    
+}
+.bg-image {
+    background-image: url('humberto-arellano-FjZGnAhsTrQ-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.c1{
+
+    font-family: Metal Mania;
+    
+    color: white;
+    text-align: center; /* Center text horizontally */
+    display: flex;
+    justify-content: center; /* Center text horizontally using flexbox */
+    align-items: center;
+
+
+}
+.c2{
+    color: #ffc40c;
+}
+#am2{
+    background-image: url('https://images.unsplash.com/photo-1683874249480-c6e417ab3521?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+} 
+
+
+
